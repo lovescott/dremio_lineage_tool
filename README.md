@@ -45,7 +45,7 @@ Designed as a migration planning tool for teams moving from Dremio to **Databric
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-org/dremio-lineage.git
+git clone https://github.com/lovescott/dremio_lineage_tool.git
 cd dremio-lineage
 ```
 

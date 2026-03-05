@@ -1,0 +1,7 @@
+requests
+pandas
+sqlglot
+networkx
+matplotlib
+pyvis
+urllib3<2
